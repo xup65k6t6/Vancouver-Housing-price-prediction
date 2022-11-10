@@ -1,5 +1,4 @@
 # Vancouver-Housing-price-prediction
-Using multivariable linear regression, this analysis aims to predict Vancouver housing prices ranging from 2019 to early 2020 based on one sample data set.
 
 This analysis aims to predict Vancouver housing prices with related factors ranging from 2019 to early 2020 based on one sample data set. So that the realtors could have an overview of the real estate market in Vancouver, and sellers and potential buyers would receive proper information to make a wise decision.
  
